@@ -62,5 +62,5 @@ e = Entry(root, width=110)
 send = Button(root, text="SEND", bg="light pink", width=10,
               height=3, command=send).grid(row=1, column=1)
 e.grid(row=1, column=0)
-root.title(" SAURABH'S CHATBOT ")
+root.title(" CHATBOT ")
 root.mainloop()
